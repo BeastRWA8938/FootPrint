@@ -35,7 +35,7 @@ while True:
     including services - here path to the Chromedriver
 
     please enter the path for your chromedriver in the PATH variable
-    PATH = '/Users/beastrwa/Desktop/Personal Projects/chromedriver'
+    PATH = '/Users/user/path/chromedriver'
 
     another alternative for it is to put chromedrive in the same folder and use os
     PATH = os.path.join(os.getcwd(),'chromedriver')
