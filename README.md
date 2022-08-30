@@ -6,7 +6,7 @@ This will give us the person's social profile links if they have an account.
 
 To use this program in your computer you need to change few things in the code.
 
-This to be changed are mentioned in multi like comments. Be sure to apply them.
+Things to be changed are mentioned in multi like comments. Be sure to apply them.
 
 Requirements :-
 
