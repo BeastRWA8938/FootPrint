@@ -16,9 +16,9 @@ Requirements :-
 
 3. Please run the command in your interface. 
 
--> for Mac/Linux (terminal) -> pip3 install selenium
+   -> for Mac/Linux (terminal) -> pip3 install selenium
 
--> for Windows (cmd) -> pip install selenium
+   -> for Windows (cmd) -> pip install selenium
 
 
 This is only for Educational Purpose. Not Indended for Malicious use.
